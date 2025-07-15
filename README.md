@@ -1,7 +1,7 @@
 # 🚢 Titanic Survival Classifier (Random Forest + GridSearchCV)
 
 🏆 Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  
-📈 Public Leaderboard Rank: **3034 / 15,399** (Top ~20%)  
+📈 Public Leaderboard Rank: **3035/ 15,399** (Top ~20%)  
 🧠 Best Model Submission: `RandomForest_2.csv` – 83.39% Accuracy (CV)
 
 ---
